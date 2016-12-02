@@ -19,7 +19,9 @@ _For my summative i have decided to present my best workings over the first term
 ### One tweet
 
 ### Union hack
-[AUS](https://github.com/Jacobisagit/Summative-/blob/master/aussie%20aussie%20aussie.png) 
+![AUS1](https://github.com/Jacobisagit/Summative-/blob/master/aussie%20aussie%20aussie.png)
+![AUS2](https://github.com/Jacobisagit/Summative-/blob/master/aus%2018.jpg)
+![AUS3](https://github.com/Jacobisagit/Summative-/blob/master/aus%2014.jpg)
 
 ### Code in your plate
 
