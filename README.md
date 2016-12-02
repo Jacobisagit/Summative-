@@ -15,9 +15,10 @@ _For my summative i have decided to present my best workings over the first term
 ## Projects
 
 ### Eye Bombing 
+[Eye bombing](https://spark.adobe.com/#design/page/f24e1fa1-0f0c-42b4-b272-24f17132154f)
 
 ### One tweet
-[One tweet Presentation](https://spark.adobe.com/#design/page/c1d6b301-0f4f-42ad-aa27-b71890e48131)
+[One tweet](https://spark.adobe.com/#design/page/c1d6b301-0f4f-42ad-aa27-b71890e48131)
 
 ### Union hack
 [Union hack](https://spark.adobe.com/#design/page/780243bb-b982-413a-904f-6820811688cf)
@@ -26,6 +27,8 @@ _For my summative i have decided to present my best workings over the first term
 ![AUS3](https://github.com/Jacobisagit/Summative-/blob/master/aus%2014.jpg)
 
 ### Code in your plate
+[Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
 ## Blog Posts
+
 
