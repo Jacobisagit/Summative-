@@ -30,5 +30,6 @@ _For my summative i have decided to present my best workings over the first term
 [Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
 ## Blog Posts
-
-
+1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=8&action=edit)
+2. [One tweet](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=10&action=edit)
+6. [Mozilla](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=16&action=edit)
