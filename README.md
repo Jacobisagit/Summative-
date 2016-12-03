@@ -19,6 +19,9 @@ _For my summative i have decided to present my best workings over the first term
 
 - For my Eye Bombing project I focused on visually capturing proximity and continuation within a home, using the buildings structures and fittings. As well as house hold objects and items in their natural positioning to produce relevant imagery.
 
+![eye0](https://github.com/Jacobisagit/Summative-/blob/master/IMG_20161008_181743.jpg)
+![eye2](https://github.com/Jacobisagit/Summative-/blob/master/IMG_20161008_181959.jpg)
+![eye](https://github.com/Jacobisagit/Summative-/blob/master/IMG_20161008_180732.jpg)
 
 ### One tweet
 - [One tweet](https://spark.adobe.com/#design/page/c1d6b301-0f4f-42ad-aa27-b71890e48131)
@@ -38,4 +41,6 @@ _For my summative i have decided to present my best workings over the first term
 1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
 2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
 3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)
-4. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
+4. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-4-web-media-production-peer-learning/)
+5. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
+
