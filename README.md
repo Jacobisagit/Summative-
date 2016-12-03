@@ -28,6 +28,9 @@ _For my summative i have decided to present my best workings over the first term
 
 - For my One tweet project I decided to use ushers tweet, "@usher justice or just us. is the system broken?". I will be running through my working process and how i came up with my final design concept. As well as different variations of the posters and my personal faviourites and why.
 
+![one tweet](https://github.com/Jacobisagit/Summative-/blob/master/just%20us.pdf)
+![one tweet1](https://github.com/Jacobisagit/Summative-/blob/master/poster%203.jpg)
+
 ### Union hack
 - [Union hack](https://spark.adobe.com/#design/page/780243bb-b982-413a-904f-6820811688cf)
 ![AUS1](https://github.com/Jacobisagit/Summative-/blob/master/aussie%20aussie%20aussie.png)
