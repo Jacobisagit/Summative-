@@ -21,6 +21,7 @@ _For my summative i have decided to present my best workings over the first term
 5. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
 6. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
 7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
+
 ## Projects
 
 ### Eye Bombing 
@@ -49,11 +50,3 @@ _For my summative i have decided to present my best workings over the first term
 - [Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
 ![My recipe](https://github.com/Jacobisagit/Summative-/blob/master/Screen%20Shot%202016-12-03%20at%2021.31.04.png)
-## Blog Posts
-1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
-2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
-3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)
-4. [reflection blog](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=14&action=edit)
-5. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
-6. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
-7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
