@@ -35,7 +35,7 @@ _For my summative i have decided to present my best workings over the first term
 - [Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
 ## Blog Posts
-1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=8&action=edit)
-2. [One tweet](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=10&action=edit)
+1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
+2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
 3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)
-4. [Mozilla](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=16&action=edit)
+4. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
