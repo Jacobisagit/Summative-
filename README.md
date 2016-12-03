@@ -17,6 +17,9 @@ _For my summative i have decided to present my best workings over the first term
 ### Eye Bombing 
 - [Eye bombing](https://spark.adobe.com/#design/page/f24e1fa1-0f0c-42b4-b272-24f17132154f)
 
+- For my Eye Bombing project i focused on visually capturing proximity and continuation within a home using the buildings structures and fittings as well as house hold objects and items in their natural positioning to produce relevant imagery.  
+
+
 ### One tweet
 - [One tweet](https://spark.adobe.com/#design/page/c1d6b301-0f4f-42ad-aa27-b71890e48131)
 
