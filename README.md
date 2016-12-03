@@ -10,14 +10,14 @@
 
 
 ## Introduction
-_For my summative i have decided to present my best workings over the first term, the topics I am focusing on are from Eye bombing, One tweet, Union hack and code in your plate._
+_For my summative i have decided to present my best workings over the first term, the topics I am focusing on are from Eye bombing, One tweet, Union hack and code in your plate, I will run through my workings and discuss my favourite pieces._
 
 ## Projects
 
 ### Eye Bombing 
 - [Eye bombing](https://spark.adobe.com/#design/page/f24e1fa1-0f0c-42b4-b272-24f17132154f)
 
-- For my Eye Bombing project I focused on visually capturing proximity and continuation within a home, using the buildings structures and fittings. As well as house hold objects and items in their natural positioning to produce relevant imagery.  
+- For my Eye Bombing project I focused on visually capturing proximity and continuation within a home, using the buildings structures and fittings. As well as house hold objects and items in their natural positioning to produce relevant imagery.-
 
 
 ### One tweet
