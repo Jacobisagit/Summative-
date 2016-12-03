@@ -33,7 +33,6 @@ _For my summative i have decided to present my best workings over the first term
 
 ### Union hack
 - [Union hack](https://spark.adobe.com/#design/page/780243bb-b982-413a-904f-6820811688cf)
-![AUS1](https://github.com/Jacobisagit/Summative-/blob/master/aussie%20aussie%20aussie.png)
 ![AUS2](https://github.com/Jacobisagit/Summative-/blob/master/aus%2018.jpg)
 ![AUS3](https://github.com/Jacobisagit/Summative-/blob/master/aus%2014.jpg)
 
