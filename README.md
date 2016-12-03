@@ -28,7 +28,7 @@ _For my summative i have decided to present my best workings over the first term
 
 - For my One tweet project I decided to use ushers tweet, "@usher justice or just us. is the system broken?". I will be running through my working process and how i came up with my final design concept. As well as different variations of the posters and my personal faviourites and why.
 
-- ![one tweet1](https://github.com/Jacobisagit/Summative-/blob/master/poster%203.jpg)
+![one tweet1](https://github.com/Jacobisagit/Summative-/blob/master/poster%203.jpg)
 
 
 ### Union hack
@@ -40,7 +40,7 @@ _For my summative i have decided to present my best workings over the first term
 ### Code in your plate
 - [Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
-- ![My recipe](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
+![My recipe](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
 
 ## Blog Posts
 1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
