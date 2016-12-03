@@ -44,6 +44,6 @@ _For my summative i have decided to present my best workings over the first term
 1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
 2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
 3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)
-4. [reflection blog](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=14&action=edit
+4. [reflection blog](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=14&action=edit)
 5. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
 
