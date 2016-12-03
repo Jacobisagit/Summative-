@@ -40,8 +40,7 @@ _For my summative i have decided to present my best workings over the first term
 ### Code in your plate
 - [Code in your plate](https://github.com/Jacobisagit/MyRecipe)
 
-![My recipe](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
-
+![My recipe](https://github.com/Jacobisagit/Summative-/blob/master/Screen%20Shot%202016-12-03%20at%2021.31.04.png)
 ## Blog Posts
 1. [Eye bombing](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
 2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
