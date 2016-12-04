@@ -10,7 +10,27 @@
 
 
 ## Introduction
-_For my summative i have decided to present my best workings over the first term, the topics I am focusing on are from Eye bombing, One tweet, Union hack and code in your plate, I will run through my workings and discuss my favourite pieces._
+_For my summative I have decided to present my best workings over the first term, the topics I am focusing on are from Eye bombing, One tweet, Union hack and code in your plate, I will run through my workings and discuss what I could have improved and what came out successfully._
+
+
+#### What I need to Improve.
+
+- HTML skills.                
+
+- CSS skills.
+
+- Photoshop.
+
+- Illustrator.
+
+- Wordpress.
+
+- Presenting.
+
+- Group working.
+
+#### What have I achieved.
+- With the level of skill I had at the start of the course to now (in the above programs etc), I feel I have gained alot of really good knowledge, thanks to the lectures and tasks this has really helped me to develope and improve my work and have a greater understanding of the skills required in the course. During this first term I have been introduced to alot of programs and coding That I have never operated before, I Believe ive Gained some basic skills in all the above list of improvements and I aim to Be confident with them all by the end of the course.
 
 
 ## Blog Post
@@ -22,7 +42,9 @@ _For my summative i have decided to present my best workings over the first term
 6. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
 7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
 
+
 ## Projects
+_Below are some of my most successfull creations within the main projects of the first term. As well as my presentations and workings attached in links and images._ 
 
 ### Eye Bombing 
 - View Eye bombing presentation [Here.](https://spark.adobe.com/#design/page/f24e1fa1-0f0c-42b4-b272-24f17132154f)
