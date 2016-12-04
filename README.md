@@ -34,14 +34,14 @@ _For my summative I have decided to present my best workings over the first term
 
 
 ## Blog Post
- 1. [Eye bombing ](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
- 2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
- 3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)
- 4. [reflection blog](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=14&action=edit)
- 5. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
- 6.[Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
- 7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
- 8. [Code in your plate](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-8-web-media-production-code-in-your-plate/)
+1. [Eye bombing ](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-1-web-media-production-eye-bombing/)
+2. [One tweet](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-2-web-media-production-one-tweet/)
+3. [Union Hack](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-3-web-media-production-the-union-hack/)  
+4. [reflection blog](http://fourthfloor.raveweb.net/jfielding/wp-admin/post.php?post=14&action=edit)
+5. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
+6. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
+7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
+8. [Code in your plate](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-8-web-media-production-code-in-your-plate/)
 
 ## Projects
 _Below are some of my most successfull creations within the main projects of the first term. As well as my presentations and workings attached in links and images._ 
