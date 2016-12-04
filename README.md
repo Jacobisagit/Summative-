@@ -64,6 +64,8 @@ _Below are some of my most successfull creations within the main projects of the
 
 ### Union hack
 - View Union hack presentation [Here.](https://spark.adobe.com/#design/page/780243bb-b982-413a-904f-6820811688cf)
+
+- For my Union hack project I decided to focus on the Australian Flag as I believe it is in need of some update. Being from australia I felt quite passionate about try to create a flag of what I felt represented Australia to me and to what I percieve others would feel.
 ![AUS2](https://github.com/Jacobisagit/Summative-/blob/master/aus%2018.jpg)
 ![AUS3](https://github.com/Jacobisagit/Summative-/blob/master/aus%2014.jpg)
 
