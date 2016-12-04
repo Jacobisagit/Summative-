@@ -72,5 +72,6 @@ _Below are some of my most successfull creations within the main projects of the
 ### Code in your plate
 - My recipe in Github [Here.](https://github.com/Jacobisagit/MyRecipe)
 - My recipe in Thimble[Here.](https://thimbleprojects.org/jakesathimble/140346/)
+- For my Code in your plate project I used salmon and rice as my recipe which I created on markdown and in thimble to improve the design layout to make it more accessable for the user. Below are screen shots of my work on Thimble of HTML and CSS coding of the recipe remixed. 
 ![HTML](https://github.com/Jacobisagit/Summative-/blob/master/Screen%20Shot%202016-12-03%20at%2021.31.04.png)
 ![CSS](https://github.com/Jacobisagit/Summative-/blob/master/Screen%20Shot%202016-12-04%20at%2000.14.53.png)
