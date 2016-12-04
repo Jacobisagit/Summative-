@@ -41,7 +41,7 @@ _For my summative I have decided to present my best workings over the first term
 5. [Mozilla](http://fourthfloor.raveweb.net/jfielding/2016/10/31/mozilla-festival/)
 6. [Peer learning](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-5-web-media-productionreflection-blog/)
 7. [The webs grain](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-7-web-media-productionthe-webs-grain/)
-
+8. [Code in your plate](http://fourthfloor.raveweb.net/jfielding/2016/12/02/week-8-web-media-production-code-in-your-plate/)
 
 ## Projects
 _Below are some of my most successfull creations within the main projects of the first term. As well as my presentations and workings attached in links and images._ 
